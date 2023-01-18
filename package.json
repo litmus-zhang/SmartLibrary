@@ -1,0 +1,27 @@
+{
+  "name": "smartlibrary",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litmus-zhang/SmartLibrary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/litmus-zhang/SmartLibrary/issues"
+  },
+  "homepage": "https://github.com/litmus-zhang/SmartLibrary#readme",
+  "description": "",
+  "dependencies": {
+    "hardhat": "^2.12.6"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "chai": "^4.3.7"
+  }
+}
